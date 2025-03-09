@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Project\\tg\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09FA5376-23D6-488F-9B51-0E8B8744DA0D}|tg.esproj|c:\\project\\tg\\assets\\index-d8b4dhjx.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09FA5376-23D6-488F-9B51-0E8B8744DA0D}|tg.esproj|solutionrelative:assets\\index-d8b4dhjx.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FA5376-23D6-488F-9B51-0E8B8744DA0D}|tg.esproj|c:\\project\\tg\\dist\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09FA5376-23D6-488F-9B51-0E8B8744DA0D}|tg.esproj|solutionrelative:dist\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index-D8b4DHJx.css",
+              "DocumentMoniker": "C:\\Project\\tg\\assets\\index-D8b4DHJx.css",
+              "RelativeDocumentMoniker": "assets\\index-D8b4DHJx.css",
+              "ToolTip": "C:\\Project\\tg\\assets\\index-D8b4DHJx.css",
+              "RelativeToolTip": "assets\\index-D8b4DHJx.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T16:42:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Project\\tg\\dist\\index.html",
+              "RelativeDocumentMoniker": "dist\\index.html",
+              "ToolTip": "C:\\Project\\tg\\dist\\index.html",
+              "RelativeToolTip": "dist\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-09T16:39:04.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
